@@ -19,10 +19,7 @@ void mostrarArbol(Nodo *, int);
 Nodo *arbol = NULL;
 
 int main() {
-	
 	Menu();
-	
-	
 	getch();
 	return 0;
 }
